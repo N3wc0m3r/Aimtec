@@ -1,9 +1,8 @@
-using System.Net.Configuration;
-using System.Resources;
-using System.Security.Authentication.ExtendedProtection;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using Aimtec;
 using Aimtec.SDK.Menu;
